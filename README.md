@@ -33,7 +33,7 @@ Thus, based on the different feature extractions in  [DenseReg](#citation), [Mas
 
 Illustration:
 
-[input-content](http://github.com/PierreNowi/cs231-project/markdown-here/images/model.png)
+![](markdown-here/images/model.png)
 
 
 ```
